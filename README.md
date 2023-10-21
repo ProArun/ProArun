@@ -20,6 +20,13 @@
 - 🌐 Integrating APIs for real-time data
 - 🚀 Continuous learning and keeping up with the latest trends
 
+### About me :eyes:
+![Arun's github stats](https://github-readme-stats.vercel.app/api?username=ProArun&show_icons=true&theme=dracula)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ProArun&theme=tokyonight)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProArun&theme=dracula&hide_langs_below=1" />
+
+
 🌱 Always Learning:
 I believe in continuous improvement, and I'm constantly learning and exploring new technologies and best practices in the Android development world. Let's connect, share knowledge, and grow together!
 
